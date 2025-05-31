@@ -35,7 +35,7 @@ I cloned and extended this template by adding the REST API and Swagger UI featur
 
 1. Clone this repository:
 
-   git clone https://github.com/yourusername/student-management-final.git  
+   git clone https://github.com/Qoslaye/student-management-final.git  
    cd student-management-final
 
 2. Install dependencies:
@@ -48,11 +48,11 @@ I cloned and extended this template by adding the REST API and Swagger UI featur
 
 4. Open your browser and go to:
 
-   http://localhost:5000
+   http://127.0.0.1:5000
 
 5. To view and test the API documentation, go to:
 
-   http://localhost:5000/apidocs
+  http://127.0.0.1:5000/apidocs
 
 ## API Documentation
 
